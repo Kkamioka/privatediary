@@ -1,2 +1,5 @@
 django == 2.2.2
-psycopg2-binary
+psycopg2-binary==2.8.6
+django-allauth
+Pillow==8.4.0
+
